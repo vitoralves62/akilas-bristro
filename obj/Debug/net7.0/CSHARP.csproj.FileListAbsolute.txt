@@ -1,0 +1,14 @@
+C:\Users\Vitor Alves\Desktop\CSHARP\bin\Debug\net7.0\CSHARP.exe
+C:\Users\Vitor Alves\Desktop\CSHARP\bin\Debug\net7.0\CSHARP.deps.json
+C:\Users\Vitor Alves\Desktop\CSHARP\bin\Debug\net7.0\CSHARP.runtimeconfig.json
+C:\Users\Vitor Alves\Desktop\CSHARP\bin\Debug\net7.0\CSHARP.dll
+C:\Users\Vitor Alves\Desktop\CSHARP\bin\Debug\net7.0\CSHARP.pdb
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.AssemblyInfoInputs.cache
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.AssemblyInfo.cs
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.dll
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\refint\CSHARP.dll
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.pdb
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\CSHARP.genruntimeconfig.cache
+C:\Users\Vitor Alves\Desktop\CSHARP\obj\Debug\net7.0\ref\CSHARP.dll
